@@ -1,5 +1,7 @@
 # T2_Automatas
 
+UEA: Teoría de Autómatas y Lenguajes.
+
 Programa que genere el Lenguaje (es decir, el conjunto de cadenas) de los Identificadores de un cierto
 Lenguaje de Programación que aquí llamaremos Lenguaje X usando uno o varios alfabetos, los Lenguajes elementales y
 las operaciones de las Expresiones Regulares.
